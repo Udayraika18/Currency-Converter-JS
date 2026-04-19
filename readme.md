@@ -43,7 +43,7 @@ Currency-Converter-JS/
 ## 🚀 Live Demo
 
 🔗 **Live Link:**  
-_(Add your GitHub Pages link here once you deploy it)_
+https://udayraika18.github.io/Currency-Converter-JS/
 
 ---
 
